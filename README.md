@@ -4,6 +4,6 @@
 
 以下包括
 
-data preparation "\"
+data preparation
 CNN modeling and evaluation
 results prediction
