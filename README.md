@@ -4,6 +4,6 @@
 
 以下包括
 
-*data preparation
-*CNN modeling and evaluation
-*results prediction
+* data preparation
+* CNN modeling and evaluation
+* results prediction
